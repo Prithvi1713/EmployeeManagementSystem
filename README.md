@@ -31,7 +31,7 @@
             Update-Database
             
     ## Create the Controller for each model class 
-            It is mendetory to add prefix of each controller as a Controller.cs 
+            It is mendetory to add Suffix of each controller as a Controller.cs 
             add the code in each controller for action method (Index, Create, Edit, Delete)
 
     ## Create the folder for each model class in View Folder 
